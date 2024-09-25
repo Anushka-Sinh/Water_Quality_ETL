@@ -31,7 +31,7 @@ import xml.etree.ElementTree as ET
 Analysis of Data
 
 
-Load of Data 
+
 
 ![Screenshot 2024-09-25 145912](https://github.com/user-attachments/assets/766035c9-b949-417c-8dba-66fbdb6d1884)
 
