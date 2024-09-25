@@ -1,6 +1,7 @@
  🌊 Ganga Water Quality ETL Project
 
 📋 Overview
+
 This project creats an ETL pipeline water quality data to evaluate Ganga's water body in different state on India safety and environmental health. The project includes data collection, preprocessing, statistical analysis, and visualizations to help monitor and assess water quality parameters like pH, FC, dissolved oxygen, etc.
 
 The system enables scientists, environmentalists, and the public to easily visualize and analyze trends in water quality.
@@ -8,11 +9,8 @@ The system enables scientists, environmentalists, and the public to easily visua
 🧪 Features
 
 Data Exract: Easily load data from CSV and XML source.
-
 Data Transformation: Clean and normalize datasets (handle missing values, standardize units).
-
 Statistical Analysis: Calculate key metrics like mean, median, and standard deviation for each water quality parameter.
-
 Water Quality Indicators: Assess water quality against standard thresholds (pH, turbidity, dissolved oxygen).
 
 Interactive Visualizations: Plot trends using various visual libraries (e.g., Matplotlib, Seaborn) to visualize water quality across different locations and time frames.
@@ -36,3 +34,7 @@ Analysis of Data
 Load of Data 
 
 ![Screenshot 2024-09-25 145912](https://github.com/user-attachments/assets/766035c9-b949-417c-8dba-66fbdb6d1884)
+
+![Screenshot 2024-09-25 151836](https://github.com/user-attachments/assets/b16bd973-b538-4287-97d3-a659b19b5879)
+
+![Screenshot 2024-09-25 151800](https://github.com/user-attachments/assets/6596ef8c-0802-48ab-a2e4-080ceb5923e3)
